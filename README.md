@@ -71,6 +71,7 @@ Revealed underperforming regions requiring strategic attention
 Observed seasonal trends influencing sales performance
 Highlighted key drivers of revenue growth
 
+
 Business Recommendations
 
 Focus marketing efforts on high-performing regions
@@ -93,8 +94,7 @@ Support faster decision-making
 Improve sales strategy and operational efficiency
  
   
-  Author
-Samuel Okonkwo
+ 
 
 
 
